@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    {
+      "id": 1,
+      "name": "Нижников Виталий",
+      "position": "Lead системный аналитик",
+      "company": "Издательство «Национальное образование»",
+      "email": "gate-crasher@yandex.ru",
+      "phone": "+7 938 111-88-97",
+      "telegram": "По запросу",
+      "avatar": "НВ",
+      "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Фамилия Имя",
+      "position": "Должность",
+      "company": "Название компании",
+      "email": "email@example.com",
+      "phone": "+7 000 000-00-00",
+      "telegram": "@username",
+      "avatar": "ФИ",
+      "gradient": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "active": false
+    }
+  ]
+}
